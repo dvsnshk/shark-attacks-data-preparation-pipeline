@@ -3,7 +3,7 @@
 > **Data and Information Quality** · A.Y. 2025/26 · Politecnico di Milano  
 > Dataset nr. 3 · **Score: 4 / 4** ✅
 
-**Authors:** Devis Nishku (270011) · Andrea Lancini (259408)
+**Authors:** Devis Nishku · Andrea Lancini
 
 ---
 
